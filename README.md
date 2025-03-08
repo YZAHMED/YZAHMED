@@ -1,16 +1,25 @@
 ## Hi there 👋
+# 👋 Welcome to My GitHub Profile
 
-<!--
-**YZAHMED/YZAHMED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+Hello! I'm **YAQOOB ZAHOOR AHMED**, a passionate developer who enjoys building web applications, experimenting with new technologies, and solving problems.
 
-Here are some ideas to get you started:
+🔹 **Languages:** C#, JavaScript, HTML, CSS, Markdown  
+🔹 **Frameworks:** React.js, Node.js  
+🔹 **Databases:** PostgreSQL, MongoDB, SQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 My Projects
+🔹 **[Markdown Portfolio](https://yzahmed.github.io/markdown-portfolio/)** – A simple portfolio built using Markdown and GitHub Pages.  
+🔹 **[Task Manager App](IN-PROGRESS)** – A web-based task management tool using React and Node.js.  
+🔹 **[Weather App](IN-PROGRESS)** – A real-time weather application using OpenWeather API.
+
+---
+
+## 📫 Connect With Me
+📌 **GitHub**: (https://github.com/yzahmed)  
+📌 **LinkedIn**: (https://linkedin.com/in/yzahmed)   
+📌 **Portfolio**: (https://yzahmed.com)  
+
+🌟 Feel free to explore my repositories and contribute to open-source projects! 🚀
