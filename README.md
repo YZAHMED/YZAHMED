@@ -4,7 +4,7 @@
 ## 🌟 About Me
 Hello! I'm **YAQOOB ZAHOOR AHMED**, a passionate developer who enjoys building web applications, experimenting with new technologies, and solving problems.
 
-🔹 **Languages:** C#, JavaScript, HTML, CSS, Markdown  
+🔹 **Languages:** C#![C# image](https://www.bairesdev.com/wp-content/uploads/2021/07/Csharp.svg), JavaScript, HTML, CSS, Markdown  
 🔹 **Frameworks:** React.js, Node.js  
 🔹 **Databases:** PostgreSQL, MongoDB, SQL  
 
