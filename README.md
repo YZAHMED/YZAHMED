@@ -79,8 +79,7 @@ A clean, responsive portfolio powered by Markdown content + React components.
 
 ## 🧠 I Think in Diagrams (Mermaid)
 
-<details>
-  <summary><b>Auth (PKCE) sequence</b> – click to expand</summary>
+### Auth (PKCE) Sequence
 
 ```mermaid
 sequenceDiagram
@@ -97,10 +96,8 @@ sequenceDiagram
   Client->>RS: GET /resource (Bearer access_token)
   RS-->>Client: 200 OK (data)
 ```
-</details>
 
-<details>
-  <summary><b>Device Generation (high-level)</b> – click to expand</summary>
+### Device Generation (High-Level)
 
 ```mermaid
 flowchart LR
@@ -111,7 +108,6 @@ flowchart LR
   E -->|unique, non-identifiable| F[(Store/Return)]
   F --> G[Response JSON]
 ```
-</details>
 
 ---
 
