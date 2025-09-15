@@ -2,7 +2,7 @@
 
 <!-- Header / Hero -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0ea5e9,100:22c55e&text=Yaqoob%20Zahoor%20Ahmed&fontColor=ffffff&fontSize=48&animation=fadeIn&desc=Full-Stack%20Developer%20•%20APIs%20•%20Cloud%20•%20UML&descAlignY=75" alt="Hero Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0ea5e9,100:22c55e&text=Yaqoob%20Zahoor%20Ahmed&fontColor=ffffff&fontSize=48&animation=fadeIn&desc=Full-Stack%20Developer%20•%20APIs%20•%20Cloud%20•%20UML%20•%20Laravel&descAlignY=75" alt="Hero Banner"/>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ## 👋 About Me
 I’m **Yaqoob Ahmed**, a **full-stack developer** who enjoys building **clean APIs, scalable services, and developer tools**. My focus is on designing systems that are **secure, reliable, and efficient**, while keeping productivity and simplicity at the forefront.  
 
-- 🔧 **Core Stack:** C#, JavaScript/TypeScript, React, Node.js, Go (Golang)  
+- 🔧 **Core Stack:** C#, JavaScript/TypeScript, React, Node.js, Go (Golang), PHP, Laravel  
 - 🗄️ **Data:** SQL (MySQL, SQL Server, PostgreSQL), NoSQL (MongoDB, Firebase)  
 - ☁️ **Infra:** Docker, Kubernetes, Proxmox, CI/CD basics  
 - 🧭 **Design:** UML (Mermaid), SDLC (Agile/Iterative), API-first  
@@ -112,7 +112,7 @@ flowchart LR
 ---
 
 ## 🧰 Toolbox
-**Languages/Frameworks:** C#, JavaScript/TypeScript, React, Node.js, Go, Java (learning), Python (basic)  
+**Languages/Frameworks:** C#, JavaScript/TypeScript, React, Node.js, Go, PHP, Laravel, Java (learning), Python (basic)  
 **Databases:** MySQL, SQL Server, PostgreSQL, MongoDB, Firebase  
 **Infra:** Docker, Kubernetes, Proxmox, Oracle Cloud (Free Tier)  
 **Design & Process:** UML (Mermaid), SDLC (Agile/Iterative), OAuth2/PKCE  
