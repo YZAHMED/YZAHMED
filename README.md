@@ -1,4 +1,4 @@
-<!-- Profile README: Yaqoob Zahoor Ahmed -->
+<!-- Profile README: Yaqoob Ahmed -->
 
 <!-- Header / Hero -->
 <p align="center">
@@ -12,7 +12,7 @@
 ---
 
 ## 👋 About Me
-I’m **Yaqoob Zahoor Ahmed**, a **full-stack developer** who enjoys building **clean APIs, scalable services, and developer tools**. My focus is on designing systems that are **secure, reliable, and efficient**, while keeping productivity and simplicity at the forefront.  
+I’m **Yaqoob Ahmed**, a **full-stack developer** who enjoys building **clean APIs, scalable services, and developer tools**. My focus is on designing systems that are **secure, reliable, and efficient**, while keeping productivity and simplicity at the forefront.  
 
 - 🔧 **Core Stack:** C#, JavaScript/TypeScript, React, Node.js, Go (Golang)  
 - 🗄️ **Data:** SQL (MySQL, SQL Server, PostgreSQL), NoSQL (MongoDB, Firebase)  
