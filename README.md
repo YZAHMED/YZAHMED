@@ -2,7 +2,7 @@
 
 <!-- Header / Hero -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0ea5e9,100:22c55e&text=Yaqoob%20Zahoor%20Ahmed&fontColor=ffffff&fontSize=48&animation=fadeIn&desc=Full-Stack%20Developer%20•%20APIs%20•%20Cloud%20•%20UML%20•%20Laravel&descAlignY=75" alt="Hero Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0ea5e9,100:22c55e&text=Yaqoob%20Ahmed&fontColor=ffffff&fontSize=48&animation=fadeIn&desc=Full-Stack%20Developer%20•%20APIs%20•%20Cloud%20•%20UML%20•%20Laravel&descAlignY=75" alt="Hero Banner"/>
 </p>
 
 <p align="center">
