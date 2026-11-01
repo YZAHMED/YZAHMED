@@ -1,7 +1,7 @@
 <!-- GitHub Profile README · Yaqoob Ahmed · Site Reliability & Platform Engineer -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:58a6ff,100:3fb950&text=Yaqoob%20Ahmed&fontColor=ffffff&fontSize=54&animation=fadeIn&desc=Site%20Reliability%20%26%20Platform%20Engineer&descAlignY=72&descSize=18" alt="Yaqoob Ahmed — Site Reliability & Platform Engineer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:58a6ff,100:3fb950&text=Yaqoob%20Ahmed&fontColor=ffffff&fontSize=54&animation=fadeIn&desc=Site%20Reliability%20%26amp%3B%20Platform%20Engineer&descAlignY=72&descSize=18" alt="Yaqoob Ahmed — Site Reliability & Platform Engineer"/>
 </p>
 
 <p align="center">
@@ -76,12 +76,10 @@ Site Reliability & Platform Engineer, freelancing since 2022. I design systems t
 
 ## `$ contact --how-to-reach`
 
-|   |   |
-|---|---|
-| **Portfolio** | [ycodes.ca](https://ycodes.ca): case studies with architecture diagrams |
-| **CV** | [ycodes.ca/resume](https://ycodes.ca/resume): HTML and PDF |
-| **Email** | [work@ycodes.ca](mailto:work@ycodes.ca) |
-| **Status** | Open to remote roles and relocation; best fit is teams that treat reliability as an engineering discipline |
+- **Portfolio:** [ycodes.ca](https://ycodes.ca), case studies with architecture diagrams
+- **CV:** [ycodes.ca/resume](https://ycodes.ca/resume), HTML and PDF
+- **Email:** [work@ycodes.ca](mailto:work@ycodes.ca)
+- **Status:** open to remote roles and relocation; best fit is teams that treat reliability as an engineering discipline
 
 ---
 
