@@ -1,12 +1,12 @@
-<!-- GitHub Profile README · Yaqoob Ahmed · Site Reliability & Platform Engineer -->
+<!-- GitHub Profile README · Yaqoob Ahmed · DevOps & Site Reliability Engineer -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:58a6ff,100:3fb950&text=Yaqoob%20Ahmed&fontColor=ffffff&fontSize=54&animation=fadeIn&desc=Site%20Reliability%20%26amp%3B%20Platform%20Engineer&descAlignY=72&descSize=18" alt="Yaqoob Ahmed — Site Reliability & Platform Engineer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:58a6ff,100:3fb950&text=Yaqoob%20Ahmed&fontColor=ffffff&fontSize=54&animation=fadeIn&desc=DevOps%20%26amp%3B%20Site%20Reliability%20Engineer&descAlignY=72&descSize=18" alt="Yaqoob Ahmed — DevOps & Site Reliability Engineer"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/%E2%97%8F_Open_to_opportunities-3fb950?style=for-the-badge&labelColor=0d1117" alt="Open to opportunities"/>
-  <img src="https://img.shields.io/badge/Freelance_since_2022-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Freelance since 2022"/>
+  <img src="https://img.shields.io/badge/Independent_work_since_2022-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Independent work since 2022"/>
   <img src="https://img.shields.io/badge/Canada_%C2%B7_Remote_or_relocation-d29922?style=for-the-badge&labelColor=0d1117" alt="Canada · Remote or relocation"/>
 </p>
 
@@ -20,11 +20,11 @@
 
 ## `$ whoami`
 
-Site Reliability & Platform Engineer, freelancing since 2022. I design systems to fail safely, codify the infrastructure so it can be rebuilt from Git, and rehearse the recovery before it's needed.
+DevOps & Site Reliability Engineer. I design systems to fail safely, codify the infrastructure so it can be rebuilt from Git, and rehearse the recovery before it's needed.
 
 - **Platform modernization (10-month contract):** moved a professional-services firm off costly proprietary software onto in-house apps, on an AWS environment built from Terraform and Ansible every weekday morning and destroyed every evening: ~66% fewer compute hours, and daily proof that the environment was reproducible.
-- **Serverless at scale:** AWS Lambda and API Gateway backends that served 100+ clients at 99.9% uptime.
-- **Cloud-agnostic by design:** AWS, Google Cloud, Cloudflare's edge and self-hosted Proxmox. The provider changes; the reliability engineering doesn't.
+- **Real-time venue leaderboard:** TV displays and phone scoring paired by QR code, with live WebRTC video; TypeScript, Socket.IO and React, deployed with Docker and Cloudflare Tunnel on Oracle Cloud. Used live at a venue event.
+- **Clouds:** AWS on client work; Google Cloud, Oracle Cloud and Cloudflare in projects; my own Proxmox platform. The provider changes; the reliability engineering doesn't.
 - **AI agents:** LLM agents with tool use, MCP servers, model training and fine-tuning, with least-privilege access whenever an agent touches infrastructure.
 
 ---
@@ -45,8 +45,10 @@ Site Reliability & Platform Engineer, freelancing since 2022. I design systems t
 
 ## `$ cat ~/.toolbox`
 
+![Debian Linux](https://img.shields.io/badge/Debian%20Linux-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox%20VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
