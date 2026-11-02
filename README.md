@@ -38,7 +38,7 @@ DevOps & Site Reliability Engineer. I design systems to fail safely, codify the 
 | **[Self-Hosted Platform Lab](https://ycodes.ca/projects/homelab-platform)** · `Featured` | Proxmox VE run as code: changes through pull requests, zero port-forwards, a private Git forge, golden images and a scripted DR drill (PASS in 336 s) |
 | **[Self-Healing Reliability Lab](https://ycodes.ca/projects/sre-trading-platform)** | Kafka and MySQL GTID replication behind HAProxy, scripted failover gated by health checks, load tests and written postmortems |
 | **[The Pocket Data Center](https://ycodes.ca/projects/oneplus6-linux-server)** | A retired phone reflashed as an always-on ARM64 Linux server that ran a Docker stack at about 4 W |
-| **[TLS Certificate Chain Inspector](https://ycodes.ca/projects/tls-certificate-inspector)** · [`Live`](https://ssl.yaqoobahmed.com) | Verifies every signature in a certificate chain up to Mozilla's root store and computes SPKI pins |
+| **[TLS Certificate Chain Inspector](https://ycodes.ca/projects/tls-certificate-inspector)** · [`Live`](https://ssl.yaqoobahmed.com) | Verifies every signature in a certificate chain up to Mozilla's root store, checks revocation (CRL and OCSP) and computes SPKI pins |
 | **[X.509 Encryption Service](https://ycodes.ca/projects/x509-encryption-service)** · [`Live`](https://encryption.yaqoobahmed.com) | A teaching PKI built from first principles: CA → server certificate → RSA-OAEP, serverless |
 
 ---
